@@ -10,9 +10,9 @@ The objective of this checkpoint is to build a library interface with TypeScript
 
 ### Required Classes & Interfaces
 
-<img src="https://boisecodeworks.github.io/TypeScriptLibrary/docs/LibraryClass.png"><br>
-<img src="https://boisecodeworks.github.io/TypeScriptLibrary/docs/AlbumClass.png"><br>
-<img src="https://boisecodeworks.github.io/TypeScriptLibrary/docs/BookClass.png"><br>
+<img src="https://boisecodeworks.github.io/TypeScriptLibrary/docs/LibraryClass.png"><br><br>
+<img src="https://boisecodeworks.github.io/TypeScriptLibrary/docs/AlbumClass.png"><br><br>
+<img src="https://boisecodeworks.github.io/TypeScriptLibrary/docs/BookClass.png"><br><br>
 <img src="https://boisecodeworks.github.io/TypeScriptLibrary/docs/MovieClass.png">
 
 <br>
