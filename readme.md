@@ -37,8 +37,12 @@ The objective of this checkpoint is to build a library interface with TypeScript
 * GitHub Pages Enabled (5)
 * Missed deadline (-10)
 
+### Bonus
+* Identify and implement the use case for an enum type (5)
 
-#### Total Possible (45)
+#### Total Possible (50)
+
+
 
 
 
